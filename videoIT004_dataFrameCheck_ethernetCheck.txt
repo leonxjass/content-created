@@ -1,0 +1,36 @@
+**Guion para un Video de 2 Minutos: Entendiendo el Ethernet Frame de Forma Accesible**
+
+---
+
+**Introducción:**
+- ¡Hola a todos! Hoy vamos a explorar un concepto fundamental en redes: el Ethernet frame. Descubriremos qué es y por qué es importante en nuestras conexiones diarias a internet.
+
+**1. Definición del Ethernet Frame (0:00 - 0:30):**
+- Empecemos por lo básico. ¿Qué es un Ethernet frame? Es como un paquete de datos que se envía a través de nuestras redes de internet.
+- ¿Qué lleva dentro? Imaginen que es como un sobre que contiene la dirección del remitente y del destinatario, el tipo de contenido y una especie de "verificador" para asegurarnos de que la carta llegue completa y sin errores.
+- Esto nos ayuda a enviar y recibir información de manera rápida y segura en nuestras computadoras y otros dispositivos conectados a la red.
+
+**2. Ejemplo de Aplicación (0:30 - 1:00):**
+- Para entenderlo mejor, pensemos en enviar un mensaje a un amigo por correo electrónico.
+- Cuando escribimos nuestro mensaje en la computadora y presionamos enviar, ¡estamos creando un Ethernet frame!
+- Dentro de este "marco", incluimos la dirección de correo electrónico de nuestro amigo (como la dirección de destino), nuestra propia dirección de correo (como la dirección de origen), el tipo de mensaje que estamos enviando y un pequeño código que verifica que el mensaje llegue intacto.
+- Este proceso asegura que nuestro mensaje llegue a nuestro amigo tal como lo escribimos, sin errores o partes perdidas.
+
+**3. Papel de la Trama Ethernet (1:00 - 1:30):**
+- ¿Qué es la trama Ethernet en todo esto? Es como el sobre completo que contiene toda la información necesaria para que nuestros datos viajen de un lugar a otro en la red.
+- Dentro de esta "trama", tenemos el preámbulo que ayuda a que los dispositivos sepan que viene un mensaje, las direcciones que dicen quién envía y quién recibe, y el pequeño código de verificación al final que asegura que el mensaje llegue bien.
+- Cada parte del Ethernet frame tiene un papel importante para que nuestra comunicación en internet sea confiable y rápida.
+
+**4. Conclusión (1:30 - 2:00):**
+- Recapitulación: Aprendimos que el Ethernet frame es como un sobre digital que usamos para enviar datos por nuestras redes.
+- Con ejemplos simples, vimos cómo funciona al enviar mensajes y cómo cada parte del marco Ethernet asegura una comunicación sin problemas.
+- ¿Tienes curiosidad sobre cómo funciona más en detalle o cómo puedes usarlo en tu día a día? ¡Déjame saber en los comentarios!
+
+---
+
+**Cierre:**
+- Gracias por acompañarnos en este viaje para entender mejor el Ethernet frame. Recuerda suscribirte para más videos sobre tecnología y redes. ¡Hasta la próxima!
+
+---
+
+Este guion para el video de 2 minutos se enfoca en explicar el concepto de Ethernet frame de manera accesible para principiantes, utilizando ejemplos simples y cotidianos para ilustrar su función y relevancia en redes.

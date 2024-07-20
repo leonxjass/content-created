@@ -1,0 +1,11 @@
+Resumen sobre Direcciones MAC y Tramas Ethernet:
+
+Las direcciones MAC son identificadores únicos asignados a cada dispositivo en una red Ethernet, funcionando como "direcciones postales" para la comunicación en la red.
+
+Las tramas Ethernet son paquetes de datos que incluyen direcciones MAC de origen y destino, facilitando la entrega precisa de datos entre dispositivos.
+
+Un switch de red utiliza una tabla de direcciones MAC para dirigir tramas a través de los puertos correctos. Si conoce la dirección MAC de destino, envía la trama solo por el puerto correspondiente. Si no la conoce, realiza una difusión enviando la trama por todos los puertos, excepto por el de recepción.
+
+Comprender este proceso es esencial para la eficiencia y seguridad de las redes Ethernet, optimizando el enrutamiento de datos y limitando el acceso a dispositivos conocidos.
+
+En resumen, las direcciones MAC y las tramas Ethernet son cruciales para el funcionamiento de redes locales, asegurando que los datos se envíen correctamente entre dispositivos identificados.
